@@ -1,7 +1,7 @@
 # loopback-graphql-ext-example
 
 ```
-$ git clone https://github.com/atul-github/loopback-graphql-ext.git
+$ git clone https://github.com/atul-github/loopback-graphql-ext-example.git
 $ cd loopback-graphql-ext-example
 $ npm install
 $ node .
